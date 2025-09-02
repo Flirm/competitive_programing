@@ -3,7 +3,8 @@
 using namespace std;
 
 int main(){
-    int n, curr, last, moves = 0;
+    int n, curr, last;
+    long long moves = 0;
     cin >> n;
     cin >> last;
     for(int i = 1; i < n; i++){

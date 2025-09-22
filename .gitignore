@@ -1,2 +1,3 @@
-exe_files/
+*.exe
+*exe_files/
 .vscode/

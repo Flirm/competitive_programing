@@ -1,3 +1,4 @@
+//https://moj.naquadah.com.br/treino/problema/?id=mdp-br-fp-2026%23m-microondas
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -23,7 +23,6 @@ int main(){
     cin >> n >> m;
 
     vector<vector<int>> mat(n, vector<int>(m));
-    pair<int,int> first;
     for(int i = 0; i < n; i++){
         string s; cin >> s;
         for(int j = 0; j < m; j++){
